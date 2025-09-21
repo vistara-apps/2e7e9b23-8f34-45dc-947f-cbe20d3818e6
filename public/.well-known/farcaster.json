@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "MimiPromptGen",
+    "subtitle": "Built with Zara",
+    "description": "MimiPromptGen is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://2e7e9b238f3445dc947fcbe20d3818e6-4o5h.vercel.app",
+    "splashImageUrl": "https://2e7e9b238f3445dc947fcbe20d3818e6-4o5h.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://2e7e9b238f3445dc947fcbe20d3818e6-4o5h.vercel.app/image.png",
+    "tagline": "MimiPromptGen",
+    "screenshotUrls": [
+      "https://2e7e9b238f3445dc947fcbe20d3818e6-4o5h.vercel.app/screenshot.png",
+      "https://2e7e9b238f3445dc947fcbe20d3818e6-4o5h.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://2e7e9b238f3445dc947fcbe20d3818e6-4o5h.vercel.app/api/webhook"
+  }
+}
